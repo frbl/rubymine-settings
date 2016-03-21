@@ -5,7 +5,6 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="91c1ff" />
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="1b1b1b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
