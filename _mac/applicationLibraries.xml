@@ -2256,11 +2256,13 @@
     </library>
     <library name="byebug (v4.0.2, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/4.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/4.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/byebug-4.0.2/lib" />
@@ -3810,6 +3812,7 @@
     </library>
     <library name="eventmachine (v1.0.8, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/java" />
@@ -3817,6 +3820,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/eventmachine-1.0.8/java" />
@@ -5056,12 +5060,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/http_parser.rb-0.6.0/bench" />
@@ -8566,11 +8572,13 @@
     </library>
     <library name="posix-spawn (v0.3.8, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/posix-spawn/0.3.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/posix-spawn/0.3.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/posix-spawn-0.3.8/lib" />
@@ -10974,12 +10982,14 @@
     </library>
     <library name="RedCloth (v4.2.9, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/RedCloth/4.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/RedCloth/4.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/RedCloth-4.2.9/lib" />
@@ -14280,10 +14290,12 @@
     </library>
     <library name="websocket-driver (v0.5.4, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/websocket-driver-0.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/websocket-driver-0.5.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/websocket-driver-0.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/websocket-driver-0.5.4/lib" />
       </SOURCES>
