@@ -1,9 +1,14 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl x" />
