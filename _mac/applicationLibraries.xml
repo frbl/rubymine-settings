@@ -4210,6 +4210,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/fizzy-api-0.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="fizzy-api-0.0.5 (v0.0.5, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/fizzy-api-0.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/fizzy-api-0.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="flamegraph (v0.0.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/flamegraph-0.0.5/lib" />
