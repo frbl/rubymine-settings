@@ -4496,16 +4496,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/git_reflow-0.7.1/lib" />
       </SOURCES>
     </library>
-    <library name="git_reflow-0.7.2 (v0.7.2, RVM: ruby-2.2.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/git_reflow-0.7.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/git_reflow-0.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/git_reflow-0.7.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/git_reflow-0.7.2/lib" />
-      </SOURCES>
-    </library>
     <library name="github_api (v0.12.4, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/github_api-0.12.4/lib" />
