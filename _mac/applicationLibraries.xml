@@ -1996,6 +1996,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
+    <library name="crash-watch (v1.1.12, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crash-watch-1.1.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crash-watch-1.1.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crash-watch-1.1.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/crash-watch-1.1.12/lib" />
+      </SOURCES>
+    </library>
     <library name="crummy (v1.8.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/crummy-1.8.0/lib" />
@@ -5812,28 +5822,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/parser-2.3.0.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="passenger (v5.0.24, RVM: ruby-2.2.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/dev" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/src" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/build" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/buildout" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/resources" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/download_cache" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/dev" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/src" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/build" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/buildout" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/resources" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.24/download_cache" />
       </SOURCES>
     </library>
     <library name="pg (v0.18.3, RVM: ruby-2.1.0) [gem]">
