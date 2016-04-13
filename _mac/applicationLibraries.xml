@@ -6378,6 +6378,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/postgres_ext-2.4.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="power_assert (v0.2.2, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/power_assert-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/power_assert-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.1, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/powerpack-0.1.1/lib" />
@@ -10264,6 +10272,16 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/rubygems" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.0.8, RVM: ruby-2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/test-unit-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/test-unit-3.0.8/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/test-unit-3.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/test-unit-3.0.8/sample" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.12.1, RVM: ruby-2.1.0) [gem]">
