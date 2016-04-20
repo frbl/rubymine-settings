@@ -934,7 +934,6 @@
     </library>
     <library name="appsignal (v1.0.3, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/appsignal/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/lib" />
@@ -942,7 +941,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/resources" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/appsignal/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/appsignal-1.0.3/lib" />
@@ -1368,12 +1366,10 @@
     </library>
     <library name="bcrypt (v3.1.10, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
@@ -8174,6 +8170,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.11.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.11.0/data" />
+      </SOURCES>
+    </library>
     <library name="netrc (v0.7.7, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/netrc-0.7.7/lib" />
@@ -8958,12 +8964,10 @@
     </library>
     <library name="psych (v2.0.17, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/psych/2.0.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/psych-2.0.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/psych-2.0.17/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/psych/2.0.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/psych-2.0.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/psych-2.0.17/lib" />
       </SOURCES>
@@ -11876,6 +11880,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rest-client-1.6.7/lib" />
       </SOURCES>
     </library>
+    <library name="rest-client (v1.8.0, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="roqua-core-api (v0.2.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/roqua-core-api-0.2.0/lib" />
@@ -14524,6 +14538,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/unf_ext-0.0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v0.3.1, RVM: ruby-2.1.0) [gem]">
