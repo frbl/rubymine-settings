@@ -560,6 +560,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/activesupport-4.1.14.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v4.1.8, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/activesupport-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/activesupport-4.1.8/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.1.8, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/activesupport-4.1.8/lib" />
@@ -690,6 +698,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.5/website" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.3.6, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/addressable-2.3.6/website" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.3.6, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/addressable-2.3.6/lib" />
@@ -766,6 +788,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/addressable-2.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/addressable-2.4.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="airbrake (v3.1.16, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/airbrake-3.1.16/generators" />
       </SOURCES>
     </library>
     <library name="airbrake (v3.1.16, RVM: ruby-2.2.3) [gem]">
@@ -5488,6 +5530,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/httpclient-2.7.1/sample" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.6.11, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/i18n-0.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/i18n-0.6.11/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/i18n-0.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/i18n-0.6.11/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.6.11, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/i18n-0.6.11/lib" />
@@ -7272,6 +7324,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.4, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="mailgun-ruby (v1.0.3, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/mailgun-ruby-1.0.3/lib" />
@@ -7488,6 +7548,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-3.0/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.0, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-3.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-3.0/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0221, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0221/lib" />
@@ -7496,6 +7566,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0221/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mime-types-data-3.2016.0221/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0221, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-data-3.2016.0221/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mime-types-data-3.2016.0221/data" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.1, RVM: ruby-2.1.0) [gem]">
@@ -7768,6 +7848,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.4.3, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/minitest-5.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-5.4.3/lib" />
@@ -7932,6 +8020,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mongoid-5.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.10.0, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/multi_json-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/multi_json-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.10.0, RVM: ruby-2.2.3) [gem]">
@@ -8268,6 +8364,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
+    <library name="netrc (v0.7.7, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.7.7/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/netrc-0.7.7/data" />
+      </SOURCES>
+    </library>
     <library name="netrc (v0.7.7, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/netrc-0.7.7/lib" />
@@ -8504,6 +8610,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/oauth2-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="octokit (v3.3.1, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/octokit-3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/octokit-3.3.1/lib" />
       </SOURCES>
     </library>
     <library name="octokit (v3.3.1, RVM: ruby-2.2.3) [gem]">
@@ -8942,6 +9056,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.10.1, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-0.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.10.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/pry-0.10.1/bin" />
@@ -9036,6 +9160,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-rails-0.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry-rails (v0.3.4, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/pry-rails-0.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/pry-rails-0.3.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/pry-rails-0.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/pry-rails-0.3.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.17, RVM: ruby-2.2.3) [gem]">
@@ -9584,6 +9718,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/quby_engine-cfce78b48809/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/quby_engine-cfce78b48809/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/quby_engine-cfce78b48809/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="quby (v2.3.0@cfce78, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-cfce78b48809/gemfiles" />
       </SOURCES>
     </library>
     <library name="quby (v2.3.0@f1ecb5, RVM: ruby-2.1.0) [gem]">
@@ -10514,6 +10670,18 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
       </SOURCES>
     </library>
+    <library name="rake (v10.3.1, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/rake-10.3.1/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.3.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-10.3.1/bin" />
@@ -10892,6 +11060,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.1.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/rake-11.1.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.1.2, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rake-11.1.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rake-uglifier (v0.0.3, RVM: ruby-2.1.0) [gem]">
@@ -12740,6 +12920,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/ruby-progressbar-1.7.5/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-terminfo (v0.1.1, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/ruby-terminfo-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/ruby-terminfo-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-terminfo (v0.1.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ruby-terminfo-0.1.1/lib" />
@@ -13032,6 +13220,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sass-rails-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sawyer (v0.5.5, RVM: ruby-2.1.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/sawyer-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/sawyer-0.5.5/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/sawyer-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/sawyer-0.5.5/script" />
       </SOURCES>
     </library>
     <library name="sawyer (v0.5.5, RVM: ruby-2.2.3) [gem]">
