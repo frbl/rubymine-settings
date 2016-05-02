@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="rli" value="Rails.logger.info($1)" description="Rails.logger.info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
