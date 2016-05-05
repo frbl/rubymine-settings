@@ -1,5 +1,6 @@
 <templateSet group="Ruby">
-  <template name="rli" value="Rails.logger.info($1)" description="Rails.logger.info" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="Rails.logger.info($1$)" description="Rails.logger.info" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="'!'*100" alwaysStopAt="true" />
     <context>
       <option name="RUBY" value="true" />
     </context>
