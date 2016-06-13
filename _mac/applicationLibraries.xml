@@ -16118,6 +16118,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/term-ansicolor-1.3.2/tests" />
       </SOURCES>
     </library>
+    <library name="terminal-notifier (v1.6.3, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/terminal-notifier-1.6.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v2.1.0.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/io" />
