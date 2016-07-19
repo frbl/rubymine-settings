@@ -14694,6 +14694,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-47933ae878de/lookup_tables" />
       </SOURCES>
     </library>
+    <library name="roqua-questionnaires (v1.0.0@498836, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/definitions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/lookup_tables" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/definitions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/questionnaires-498836d57e46/lookup_tables" />
+      </SOURCES>
+    </library>
     <library name="roqua-questionnaires (v1.0.0@525bd6, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/questionnaires-525bd69a42af/lib" />
