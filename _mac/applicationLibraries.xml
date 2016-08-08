@@ -1580,7 +1580,6 @@
     </library>
     <library name="appsignal (v1.2.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/appsignal/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/lib" />
@@ -1588,7 +1587,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/resources" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/appsignal/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/appsignal-1.2.2/lib" />
@@ -2942,12 +2940,10 @@
     </library>
     <library name="bson (v4.1.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bson/4.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bson-4.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bson-4.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bson/4.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bson-4.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bson-4.1.1/lib" />
       </SOURCES>
@@ -9902,13 +9898,11 @@
     </library>
     <library name="kgio (v2.10.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/kgio/2.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/kgio/2.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/kgio-2.10.0/archive" />
@@ -11796,13 +11790,11 @@
     </library>
     <library name="mysql2 (v0.4.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/support" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/support" />
@@ -12916,13 +12908,11 @@
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/sample" />
@@ -15136,13 +15126,11 @@
     </library>
     <library name="raindrops (v0.16.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/raindrops/0.16.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/raindrops/0.16.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/raindrops-0.16.0/archive" />
@@ -21570,7 +21558,6 @@
     </library>
     <library name="unicorn (v5.1.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/unicorn/5.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/ext" />
@@ -21580,7 +21567,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/unicorn/5.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/unicorn-5.1.0/ext" />
