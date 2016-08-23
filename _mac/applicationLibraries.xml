@@ -11938,6 +11938,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/mixlib-shellout-2.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="modernizr-rails (v2.7.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/modernizr-rails-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/modernizr-rails-2.7.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/modernizr-rails-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/modernizr-rails-2.7.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="mongo (v2.2.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/mongo-2.2.4/bin" />
