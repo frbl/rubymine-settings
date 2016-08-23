@@ -8130,6 +8130,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/heroku-api-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="highcharts-rails (v4.2.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highcharts-rails-4.2.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highcharts-rails-4.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highcharts-rails-4.2.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highcharts-rails-4.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="highline (v1.6.19, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/highline-1.6.19/lib" />
