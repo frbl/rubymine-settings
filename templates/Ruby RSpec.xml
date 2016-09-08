@@ -4,4 +4,11 @@
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="let" value="let(:$key$) { $code$ }" description="Adds a let to a function" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
