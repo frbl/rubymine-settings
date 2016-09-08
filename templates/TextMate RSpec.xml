@@ -1,4 +1,8 @@
 <templateSet group="TextMate RSpec">
+  <template name="desc" value="require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')&#10;&#10;describe $VARIABLE_1$ do&#10;  $END$&#10;end" description="describe (Controller)" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="controller" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="it" value="it '$VARIABLE_1$'$VARIABLE_2$" description="it (does something)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="does something" alwaysStopAt="true" />
     <variable name="VARIABLE_2" expression="" defaultValue="do   $END$ end" alwaysStopAt="true" />
