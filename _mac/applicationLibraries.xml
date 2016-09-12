@@ -7776,16 +7776,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/git_reflow-0.7.4/lib" />
       </SOURCES>
     </library>
-    <library name="git_reflow (v0.8.3, RVM: ruby-2.3.1) [gem]">
+    <library name="git_reflow (v0.8.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/git_reflow-0.8.4/lib" />
       </SOURCES>
     </library>
     <library name="github_api (v0.12.4, RVM: ruby-2.1.0) [gem]">
@@ -15670,6 +15670,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.2, RVM: ruby-2.2.4) [gem]">
