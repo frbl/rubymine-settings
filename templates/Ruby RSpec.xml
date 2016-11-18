@@ -2,7 +2,9 @@
   <template name="desc" value="describe '$SYSTEM_UNDER_TEST$' do&#10;  $CURSOR$&#10;end" description="desc" toReformat="true" toShortenFQNames="true">
     <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
   </template>
   <template name="let" value="let(:$key$) { $code$ }" description="Adds a let to a function" toReformat="false" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
