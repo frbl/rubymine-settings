@@ -13816,6 +13816,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/minitest-5.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/minitest-5.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.2, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/minitest-5.4.2/lib" />
@@ -15792,6 +15800,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.3.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pathutil (v0.14.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pathutil-0.14.0/lib" />
@@ -17304,6 +17322,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-f1ecb58a71ca/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-f1ecb58a71ca/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/quby_engine-f1ecb58a71ca/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="quby (v2.4.1@0f75b3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/tmp" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/quby_engine-0f75b3e8cbbc/gemfiles" />
       </SOURCES>
     </library>
     <library name="quby (v2.4.1@675d13, RVM: ruby-2.3.1) [gem]">
@@ -21406,6 +21446,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/questionnaires-aa8b6a30cc42/lookup_tables" />
       </SOURCES>
     </library>
+    <library name="roqua-questionnaires (v1.0.0@bdc9eb, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/definitions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/lookup_tables" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/definitions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/questionnaires-bdc9eb7a1bc0/lookup_tables" />
+      </SOURCES>
+    </library>
     <library name="roqua-questionnaires (v1.0.0@ca29b2, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/bundler/gems/questionnaires-ca29b2b4abc9/lib" />
@@ -22822,6 +22876,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.45.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.45.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.45.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.46.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.46.0/config" />
       </SOURCES>
     </library>
     <library name="ruby-debug-passenger (v0.2.0, RVM: ruby-2.2.3) [gem]">
@@ -26528,6 +26596,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/uglifier-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.0.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/uglifier-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/uglifier-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.1.0) [gem]">
