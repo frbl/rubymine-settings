@@ -27610,6 +27610,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-2.3.0/minitest" />
       </SOURCES>
     </library>
+    <library name="webmock (v2.3.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-2.3.1/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webmock-2.3.1/minitest" />
+      </SOURCES>
+    </library>
     <library name="websocket (v1.2.1, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/websocket-1.2.1/lib" />
