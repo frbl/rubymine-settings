@@ -4238,16 +4238,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capistrano-rails-1.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="capybara (v2.10.1, RVM: ruby-2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.10.1/.yard" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.10.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.10.1/.yard" />
-      </SOURCES>
-    </library>
     <library name="capybara (v2.11.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.11.0/lib" />
@@ -4274,14 +4264,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/capybara-2.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="capybara (v2.2.1, RVM: ruby-2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.2.1/lib" />
-      </SOURCES>
-    </library>
     <library name="capybara (v2.4.4, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/capybara-2.4.4/lib" />
@@ -4296,14 +4278,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/capybara-2.4.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="capybara (v2.4.4, RVM: ruby-2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.4.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.4.4/lib" />
       </SOURCES>
     </library>
     <library name="capybara (v2.5.0, RVM: ruby-2.1.0) [gem]">
@@ -4330,14 +4304,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/capybara-2.6.2/lib" />
       </SOURCES>
     </library>
-    <library name="capybara (v2.6.2, RVM: ruby-2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.6.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.6.2/lib" />
-      </SOURCES>
-    </library>
     <library name="capybara (v2.7.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/capybara-2.7.1/lib" />
@@ -4360,14 +4326,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/capybara-2.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="capybara (v2.8.1, RVM: ruby-2.3.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.8.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.8.1/lib" />
       </SOURCES>
     </library>
     <library name="capybara-email (v2.3.0, RVM: ruby-2.1.0) [gem]">
