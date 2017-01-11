@@ -2360,7 +2360,6 @@
     </library>
     <library name="appsignal (v2.0.5, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/lib" />
@@ -2368,7 +2367,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/resources" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/appsignal-2.0.5/lib" />
@@ -12976,7 +12974,6 @@
     </library>
     <library name="json (v2.0.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/data" />
@@ -12987,7 +12984,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-2.0.2/data" />
@@ -16112,13 +16108,11 @@
     </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/tasks" />
@@ -16346,7 +16340,6 @@
     </library>
     <library name="nokogiri (v1.7.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/lib" />
@@ -16356,7 +16349,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.0/lib" />
@@ -18426,14 +18418,12 @@
     </library>
     <library name="puma (v3.6.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.6.2/lib" />
@@ -21032,13 +21022,11 @@
     </library>
     <library name="rb-fsevent (v0.9.8, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rb-fsevent-0.9.8/lib" />
