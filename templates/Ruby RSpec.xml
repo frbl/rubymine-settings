@@ -3,7 +3,11 @@
     <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="RUBY" value="true" />
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="let" value="let(:$key$) { $code$ }" description="Adds a let to a function" toReformat="false" toShortenFQNames="true">
