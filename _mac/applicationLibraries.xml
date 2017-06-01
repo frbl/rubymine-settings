@@ -30674,6 +30674,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/workless-1.2.3/rails" />
       </SOURCES>
     </library>
+    <library name="workless (v1.2.3@6b1dfe, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/xpath-2.0.0/lib" />
