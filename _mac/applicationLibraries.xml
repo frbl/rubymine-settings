@@ -13622,6 +13622,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mysql2-0.4.4/support" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.4, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mysql2-0.4.4/support" />
+      </SOURCES>
+    </library>
     <library name="naught (v1.0.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/naught-1.0.0/lib" />
