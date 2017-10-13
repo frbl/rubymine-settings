@@ -2352,6 +2352,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/animate-rails-4e76fa2d3994/lib" />
       </SOURCES>
     </library>
+    <library name="animate-rails (v1.0.11@ff6dd5, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/animate-rails-ff6dd54ac853/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/animate-rails-ff6dd54ac853/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/animate-rails-ff6dd54ac853/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/animate-rails-ff6dd54ac853/lib" />
+      </SOURCES>
+    </library>
     <library name="appsignal (v0.11.0, RVM: ruby-2.1.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.0/gems/appsignal-0.11.0/bin" />
