@@ -2830,6 +2830,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.6/resources" />
       </SOURCES>
     </library>
+    <library name="appsignal (v2.3.7, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/appsignal/2.3.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/appsignal/2.3.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/appsignal-2.3.7/resources" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.7.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/archive-zip-0.7.0/lib" />
@@ -5076,6 +5094,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.3/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.15.4, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.4/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-2.15.4/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.2.1, RVM: ruby-2.1.0) [gem]">
@@ -17182,7 +17210,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/suppressions" />
@@ -17192,7 +17219,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.1/suppressions" />
@@ -26010,6 +26036,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.1/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.2, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sass-3.5.2/rails" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sass-listen-4.0.0/lib" />
@@ -30838,6 +30878,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/workless-6b1dfe8e469e/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="workless (v2.2.0, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/workless-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/workless-2.2.0/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/workless-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/workless-2.2.0/rails" />
       </SOURCES>
     </library>
     <library name="workless_revived (v2.1.0.2, RVM: ruby-2.3.3) [gem]">
